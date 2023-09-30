@@ -11,6 +11,9 @@ This console application allows users to input three side lengths and determine 
 ## **How It Works:**
 
 `1. Input three side lengths of a triangle.`
+
 `2. The program checks if these lengths can form a valid triangle using the triangle inequality theorem.`
+
 `3. It classifies the triangle into one of the following types: equilateral, scalene, isosceles, and determines if it's a right triangle.`
+
 `4. Users can choose to run the program again to classify more triangles.`
